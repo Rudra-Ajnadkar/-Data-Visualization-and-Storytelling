@@ -2,13 +2,13 @@
 Dataset used:  Superstore dataset
 The dataset contains 21 columns out of which relevant columns were used. The purpose behind creating this dashboard was to understand and gain insights regarding the superstore sells to identify growth opportunities .
 Columns used:
-1)Ship Mode
-2) Segment 
-3) Region 
-4)Category 
-5) Sub-Category 
-6)Sales 
-7)Profit 
+- 1)Ship Mode
+- 2) Segment 
+- 3) Region 
+- 4)Category 
+- 5) Sub-Category 
+- 6)Sales 
+- 7)Profit 
 
 This dashboard shows the overall performance of Superstore :
 - The total sales are 2.3 million, but the profit is much lower at 286K, which means the store is making less money compared to its sales. 
