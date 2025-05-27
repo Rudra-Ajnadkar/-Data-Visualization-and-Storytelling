@@ -3,10 +3,10 @@ Dataset used:  Superstore dataset
 The dataset contains 21 columns out of which relevant columns were used. The purpose behind creating this dashboard was to understand and gain insights regarding the superstore sells to identify growth opportunities .
 Columns used:
 - 1)Ship Mode
-- 2) Segment 
-- 3) Region 
+- 2)Segment 
+- 3)Region 
 - 4)Category 
-- 5) Sub-Category 
+- 5)Sub-Category 
 - 6)Sales 
 - 7)Profit 
 
